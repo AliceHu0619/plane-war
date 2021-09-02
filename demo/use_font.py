@@ -30,7 +30,7 @@ red = pygame.Color(255, 0, 0)
 
 # 加粗 斜体
 # font = pygame.font.SysFont('华文新魏', 40, False, False)
-font = pygame.font.Font('./simhei.ttf', 20)
+font = pygame.font.Font('./simhei.ttf', 40)
 # 文字对象
 text = font.render('得分', True, red)
 
